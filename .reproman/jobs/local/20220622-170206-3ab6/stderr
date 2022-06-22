@@ -11,3 +11,5 @@ starting job on c112-211
 starting job on c112-212
 starting job on c149-004
 starting job on c149-011
+slurmstepd: error: *** JOB 4520990 ON c103-054 CANCELLED AT 2022-06-22T17:32:32 ***
+Terminated
