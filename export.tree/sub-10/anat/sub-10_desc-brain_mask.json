@@ -1,0 +1,7 @@
+{
+  "RawSources": [
+    "sub-10/ses-retest/anat/sub-10_ses-retest_T1w.nii.gz",
+    "sub-10/ses-test/anat/sub-10_ses-test_T1w.nii.gz"
+  ],
+  "Type": "Brain"
+}
