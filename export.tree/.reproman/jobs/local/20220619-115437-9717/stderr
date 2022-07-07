@@ -1,8 +1,0 @@
-Warning: Permanently added 'c189-054' (ED25519) to the list of known hosts.
-WARNING (06/19/22 12:05:44): LAUNCHER_WORKDIR variable not set. Using current directory.
-using /tmp/launcher.4508131.hostlist.4kUBPez3 to get hosts
-starting job on c189-054
-starting job on c189-192
-starting job on c190-121
-slurmstepd: error: *** JOB 4508131 ON c189-054 CANCELLED AT 2022-06-19T19:05:32 ***
-Terminated
